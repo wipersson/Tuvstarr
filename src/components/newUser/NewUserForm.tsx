@@ -7,7 +7,8 @@ class NewUserForm extends React.Component {
   public render() {
     return (
       <div className="App">
-        <TextField label="Name"> Hello </TextField>
+        <TextField label="First name"></TextField>
+        <TextField label="Last name"></TextField>
         <Button variant="text" color="primary"onClick={this.newUser}>
           New User
         </Button>
