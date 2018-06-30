@@ -1,2 +1,2 @@
 ## Tuvstarr
-Entry to Solid Parks internal App development competition "App the game"
+Entry to Solid Parks internal app development competition "App the game"
